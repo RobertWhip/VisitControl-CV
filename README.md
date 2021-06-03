@@ -15,12 +15,19 @@ Requirements:
 2. Enter "y" when the scripts asks "Add a new group to the Visit Control system? y/N:".
 3. Enter the name of the group you want to add when the script asks "New group: ". For example: MyGroup1.
 4. Then enter the number of persons and their names.
+
     Number of persons: 1
+    
     0 - name: Robert 
+
 5. Follow the instruction from the Vision window when it appears.
+
    Please, press enter when
+   
    Robert
+   
    will look to the camera.
+   
 6. Press enter and wait 'till the script collects information about the person.
 7. You are done! The script will ask you a group to recognize. You can enter the group (MyGroup1) that you just created.
 
